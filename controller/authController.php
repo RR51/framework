@@ -1,5 +1,4 @@
 <?php
-
 switch ( $_GET["a"] ) {
 
     case "login":

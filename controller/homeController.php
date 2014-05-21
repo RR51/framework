@@ -6,7 +6,6 @@ include(APP_VIEW . "/header.php");
 # Include main navigation
 include(APP_VIEW . "/nav.php");
 
-
 switch ( $_GET["a"] ) {
 
     case "home":
